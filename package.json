@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/keyiis/pos-print/issues"
   },
-  "homepage": "https://github.com/keyiis/pos-print#readme"
+  "homepage": "https://github.com/keyiis/pos-print#readme",
+  "dependencies": {
+    "get-pixels": "^3.3.2",
+    "iconv-lite": "^0.4.23",
+    "lodash": "^4.17.10",
+    "printer": "^0.2.2"
+  }
 }

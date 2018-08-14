@@ -1,0 +1,15 @@
+{
+  "name": "pos-print",
+  "version": "1.0.0",
+  "description": "esc/pos tsc print for nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "escpos",
+    "tsc"
+  ],
+  "author": "phevose",
+  "license": "ISC"
+}

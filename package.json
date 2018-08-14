@@ -1,15 +1,26 @@
 {
   "name": "pos-print",
-  "version": "1.0.1",
-  "description": "esc/pos tsc print for nodejs",
+  "version": "1.0.0",
+  "description": "nodejs esc tsc print",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keyiis/pos-print.git"
+  },
   "keywords": [
-    "escpos",
+    "nodejs",
+    "print",
+    "esc",
+    "pos",
     "tsc"
   ],
   "author": "phevose",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keyiis/pos-print/issues"
+  },
+  "homepage": "https://github.com/keyiis/pos-print#readme"
 }
